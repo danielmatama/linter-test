@@ -32,113 +32,113 @@ for (let i = 0; i < links.length; i += 1) {
 }
 
 const projects = [{
-    id: 1,
-    image: '#',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  id: 1,
+  image: '#',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
     mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
-  {
-    id: 2,
-    image: '#',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
+{
+  id: 2,
+  image: '#',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
-    mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+  mechanizations: {
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
-  {
-    id: 3,
-    image: '#',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
+{
+  id: 3,
+  image: '#',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
-    mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+  mechanizations: {
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
-  {
-    id: 4,
-    image: '#',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
+{
+  id: 4,
+  image: '#',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
-    mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+  mechanizations: {
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
-  {
-    id: 5,
-    image: '#',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
+{
+  id: 5,
+  image: '#',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
-    mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+  mechanizations: {
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
-  {
-    id: 6,
-    image: 'Snapshoot Portfolio.png',
-    title: 'Multi-Post Stories Gain+Glory',
-    explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
+{
+  id: 6,
+  image: 'Snapshoot Portfolio.png',
+  title: 'Multi-Post Stories Gain+Glory',
+  explantion: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
     and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and
     typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it 1960s with the relea`,
-    mechanizations: {
-      mech0: 'Rubi on rails',
-      mech1: 'css',
-      mech2: 'JavaScript',
-      mech3: 'html',
-    },
-    linkL: '#',
-    linkS: 'https://github.com/JansueT',
+  mechanizations: {
+    mech0: 'Rubi on rails',
+    mech1: 'css',
+    mech2: 'JavaScript',
+    mech3: 'html',
   },
+  linkL: '#',
+  linkS: 'https://github.com/JansueT',
+},
 ];
 
 const cards = () => {
@@ -183,7 +183,7 @@ window.addEventListener('load', () => {
   document.getElementById('cards_container').innerHTML = cards().join('');
 });
 const check1 = {
-  title1: 'Keeping track of hundreds of components'
+  title1: 'Keeping track of hundreds of components',
 };
 const popupContainer = document.getElementById('popup_window_container');
 // const poWindow = document.getElementById('popup_window');
